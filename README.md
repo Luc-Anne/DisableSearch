@@ -14,8 +14,9 @@ OR
 3. Restart gnome-shell or reopen your session.
 
 # Compatibility
-Version of GNOME :
+At least with following versions of GNOME :
 
+    · 3.26
     · 3.36
 
-It should work with any version of GNOME 3. Don't hesitate to tell me if it works with a particular version of GNOME, I will add it officially.
+It should work with other versions of GNOME 3. Don't hesitate to tell me if it works with a particular version of GNOME, I will add it officially.
